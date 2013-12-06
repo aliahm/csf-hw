@@ -230,4 +230,4 @@ if __name__ == "__main__":
     #test_predict_state_edges()
     test_electoral_college_outcome()
 
-    print "Tests passed."
+    print "Washington Ruless."
